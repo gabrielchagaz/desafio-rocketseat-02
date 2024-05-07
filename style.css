@@ -10,6 +10,8 @@ body {
 .main {
   padding: 64px 0;
   text-align: center;
+  max-width: 626px;
+  margin: auto;
 }
 
 .main h1 {
